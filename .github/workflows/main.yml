@@ -1,0 +1,4 @@
+op_model: android16-6.12
+ksu_options: [{"type":"ksun","hash":"dev"}]
+clean_build: true
+make_release: false
